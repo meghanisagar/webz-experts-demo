@@ -1,0 +1,9 @@
+.mbutton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.draggable {
+  cursor: move;
+  width: auto;
+}
